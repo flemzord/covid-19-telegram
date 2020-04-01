@@ -1,4 +1,5 @@
 # COVID-19 statistics updates at Telegram
+# French
 
 ## How it works
 
